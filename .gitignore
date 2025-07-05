@@ -1,0 +1,18 @@
+start.bat
+fonts/*
+images/*
+
+### JetBrains template
+# Ignore everything but code style settings and run configurations
+# that are supposed to be shared within teams.
+
+.idea/*
+
+!.idea/codeStyles
+!.idea/runConfigurations
+
+### osMrPigHead template
+*.secret.*
+*.exe
+.debug
+
